@@ -104,13 +104,6 @@ export LD_LIBRARY_PATH=`python3 -c 'import os; import nvidia.cublas.lib; import 
 - **Enhanced Font Support**: Better font rendering for a wide range of languages.
 - **Pipeline Optimization**: Streamlining the processing pipeline for efficiency and speed.
 
-## Contributing
-
-Contributions to improve CaptionCraft are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
 
